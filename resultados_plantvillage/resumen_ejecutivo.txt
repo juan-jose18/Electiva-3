@@ -1,0 +1,8 @@
+RESUMEN EJECUTIVO
+============================================================
+Mejor modelo: ResNet50V2
+Accuracy: 97.46%
+        Modelo  Accuracy  F1-macro  F1-weighted  Tiempo (ms)  Tamaño (MB)
+    ResNet50V2  0.974584  0.954960     0.974616     8.414889   227.932117
+   MobileNetV2  0.965819  0.956763     0.965634     8.326810    26.776541
+EfficientNetB0  0.192229  0.064227     0.105697     9.180320    43.630269
